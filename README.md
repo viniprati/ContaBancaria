@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🏦 Sistema Bancário em Java
 
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/)
